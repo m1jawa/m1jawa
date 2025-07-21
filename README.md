@@ -10,6 +10,7 @@
 <br><br>
 
 ![Discord](https://discord.com/users/815895012670963712)
+<a href='https://discord.com/users/815895012670963712' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=FFFFFF&labelColor=5662f6&color=black'/></a>
 
 Nothing more..
 Yet
