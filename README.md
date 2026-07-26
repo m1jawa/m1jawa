@@ -1,4 +1,4 @@
-Junior developer (13 y.o.). Python, Java, C enthusiast
+Junior developer (14 y.o.). Python, Java, C enthusiast
 
 ## 🔧 Skills
 Python | Java | C | HTML5 | CSS3 | PaperMC
